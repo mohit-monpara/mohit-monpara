@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-monpara) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@monpara-mohit) 
 
-## 🌐 My Portfolio:
+## 🧰 My Portfolio:
 https://mohit-monpara.github.io/portfolio/
 
 # 💻 Tech Stack:
